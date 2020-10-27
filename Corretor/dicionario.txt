@@ -1,0 +1,66 @@
+Agradecimento: manifestação de gratidão do autor da pesquisa às pessoas que colaboraram no seu trabalho. Deve ter a característica de ser curto e objetivo.
+Amostra: parcela significativa do universo pesquisado ou de coleta de dados.
+Análise: trabalho de avaliação dos dados recolhidos. Sem ela não há relatório de pesquisa.
+Anexo: material de fontes diversas, que contribui para melhor esclarecer o texto do relatório de pesquisa.
+Apêndice: o mesmo que anexo, entretanto os materiais foram feitos pelo autor do trabalho.
+Bibliografia: lista de obras utilizadas ou sugeridas pelo autor do trabalho de pesquisa.
+Capa: protege o trabalho e deve constar o nome do autor, o título do trabalho e a instituição onde a pesquisa foi realizada.
+Capítulo: uma das partes da divisão do relatório de pesquisa. Lembrando que o primeiro capítulo será a Introdução e o último as Conclusões do autor. Entre eles o texto da pesquisa.
+Ciência: conjunto organizado de conhecimentos relativos a um determinado objeto conquistados através de métodos próprios de coleta de informação.
+Citação: quando se transcreve ou se refere o que um outro autor escreveu.
+Coleta de Dados: fase da pesquisa em que se reúnem dados através de técnicas específicas.
+Conclusão: parte final do trabalho onde o autor se coloca com liberdade científica, avaliando os resultados obtidos, propondo soluções e aplicações práticas.
+Conhecimento Científico: conhecimento racional, sistemático, exato e verificável da realidade. Sua origem está nos procedimentos de verificação baseados na metodologia científica.
+Conhecimento Empírico (ou conhecimento vulgar): conhecimento obtido ao acaso, após inúmeras tentativas, ou seja, o conhecimento adquirido por meio de ações não planejadas.
+Conhecimento Filosófico: fruto do raciocínio e da reflexão humana. É o conhecimento especulativo sobre fenômenos, gerando conceitos subjetivos. Busca dar sentido aos fenômenos gerais do universo, ultrapassando os limites formais da ciência.
+Conhecimento Teológico: conhecimento revelado pela fé divina ou crença religiosa. Não pode, por sua origem, ser confirmado ou negado. Depende da formação moral e das crenças de cada indivíduo.
+Corpo do Texto: desenvolvimento do tema pesquisado, dividido em partes, capítulos ou itens, excluindo-se a Introdução e a Conclusão.
+Cronograma: planejamento das atividades da pesquisa, descrito na Metodologia, dentro de um espaço pré-determinado de tempo. Normalmente é demonstrado através de um gráfico.
+Dedicatória: parte opcional que abre o trabalho homenageando afetivamente algum indivíduo, grupos de pessoas ou outras instâncias.
+Dedução: conclusão baseada em algumas proposições ou resultados de experiências.
+Entrevista: instrumento de pesquisa utilizado na fase de coleta de dados.
+Experimento: situação provocada com o objetivo de observar a reação de determinado fenômeno.
+Fichamento: anotações de coletas de dados registradas em fichas para posterior consulta.
+Folha de Rosto: folha seguinte à capa e deve conter as mesmas informações contidas na Capa e as informações essenciais da origem do trabalho.
+Glossário: palavras de uso restrito ao trabalho de pesquisa ou pouco conhecidas pelo virtual leitor, acompanhadas de definição.
+Gráfico: representação gráfica das escalas quantitativas recolhidas durante o trabalho de pesquisa.
+Hipótese: suposição de uma resposta para o problema formulado em realção ao tema. A Hipótese pode ser confirmada ou negada.
+Índice: lista de palavras ou frases que são ordenadas segundo um determinado critério, com indicação de sua localização no texto. É um elemento pós-textual, portanto, situa-se no final do trabalho (não confundir com sumário).
+Indução: “processo mental por intermédio do qual, partindo de dados particulares, suficientemente constatados, infere-se uma verdade geral ou universal, não contida nas partes examinadas” (Lakatos, Marconi, 1991: 47).
+Instrumento de Pesquisa: material utilizado pelo pesquisador para colher dados para a pesquisa.
+Introdução: primeiro capítulo de um relatório de pesquisa, onde o pesquisador irá apresentar, em linhas gerais, o que o leitor encontrará no corpo do texto. Por isso, apesar do nome Introdução, é a última parte a ser escrita pelo autor.
+Justificativa: convencimento de que o trabalho de pesquisa é fundamental de ser efetivado.
+Material Permanente: descrição de todo capital necessário para aquisição de materiais que têm duração contínua. São aqueles materiais que se deterioram com mais dificuldade como automóveis, materiais áudio-visuais (projetores, retroprojetores, máquinas fotográficas, filmadoras etc.), mesas, cadeiras, armários, geladeiras, computadores etc.
+Material de Consumo: descrição de todo capital necessário para aquisição de materiais que têm duração limitada. São aqueles materiais que se deterioram como giz, filmes fotográficos, fitas de vídeo, gasolina, material de limpeza (sabão, detergentes, vassouras etc)
+Método: a palavra método deriva do grego e quer dizer caminho. Método então, no nosso caso, é a ordenação de um conjunto de etapas a serem cumprias no estudo de uma ciência, na busca de uma verdade ou para se chegar a um determinado conhecimento.
+Metodologia: “methodo” significa caminho; “logia” significa estudo. É o estudo dos caminhos a serem seguidos para se fazer ciência.
+Monografia: “mono” significa um, “grafia” significa escrita, ou seja, escrito por um. É um estudo científico, com tratamento escrito individual, de um tema bem determinado e limitado, que venha contribuir com relevância à ciência.
+Objetivos: determina o que o pesquisador quer atingir com a realização do trabalho de pesquisa. Objetivo é sinônimo de meta, fim. Os objetivos podem ser separados em Objetivos Gerais e Objetivos Específicos.
+Paráfrase: citação de um texto, escrito por um outro autor, sem alterar as idéias originais. Ou, eu reproduzo, com minhas próprias palavras, as idéias desenvolvidas por um outro autor.
+Pesquisa: ação metódica para se buscar uma resposta; busca; investigação.
+Premissas: proposições que vão servir de base para uma conclusão.
+Problema: marco referencial inicial de uma pesquisa. É a dúvida inicial que lança o pesquisador ao seu trabalho de pesquisa.
+Recursos Financeiros: descrição minuciosa de todo o dinheiro necessário para a realização da pesquisa. Costuma ser dividido em Material Permanente, de Consumo e Pessoal.
+Resenha: É uma descrição minuciosa de um livro, de um capítulo de um livro ou de parte deste livro, de um artigo, de uma apostila ou qualquer outro documento.
+Revisão de Literatura: estudo crítico sobre o estado da arte no conhecimento em determinado tema de interesse, mostrando e discutindo as obras e autores essenciais sobre esse tema.
+Sumário: enumeração das principais divisões, seções e demais partes do trabalho, na mesma ordem e grafia em que aparecem no texto. Normalmente é constituído pelo título do capítulo e a página a ele referente (não confundir com índice).
+Técnica: forma mais segura e ágil para se cumprir algum tipo de atividade, utilizando-se de um instrumental apropriado.
+Teoria: “conjunto de princípios e definições que servem para dar organização lógica a aspectos selecionados da realidade empírica. As proposições de uma teoria são consideradas leis se já foram suficientemente comprovadas e hipóteses se constituem ainda problema de investigação” (Goldenberg, 1998: 106-107)
+Tópico: subdivisão do assunto ou do tema.
+Universo: conjunto de fenômenos a serem trabalhados, definido como critério global da pesquisa.
+Prioridade, relevância 	Em primeiro lugar, acima de tudo, precipuamente, principalmente, primordialmente, sobretudo.
+Tempo
+(frequência, duração, ordem, sucessão, anterioridade, posteridade)Então, enfim, logo, logo depois, imediatamente, logo após, a princípio, pouco antes, pouco depois, anteriormente, posteriormente, em seguida, afinal, por fim, finalmente, agora, atualmente, hoje, frequentemente, constantemente, às vezes, eventualmente, por vezes, ocasionalmente, sempre, raramente, não raro, ao mesmo tempo, simultaneamente, nesse ínterim, nesse meio tempo, enquanto, quando, antes que, depois que, logo que, sempre que, desde que, todas as vezes que, cada vez que, apenas.
+Semelhança, comparação, conformidade 	Igualmente, da mesma forma, assim também, do mesmo modo, similarmente, semelhantemente, analogamente, por analogia, de maneira idêntica, de conformidade com, de acordo com, segundo, conforme, sob o mesmo ponto de vista, tal qual, tanto quanto, como, assim como, bem como.
+Condição, hipótese Se, caso, eventualmente, desde que, contanto que, a não ser que, salvo se, como, conforme, segundo, de acordo com, em conformidade com, consoante, para, em consonância.
+Alternância Ou, ora…ora, já…já, seja…seja, quer,..quer.
+Explicação Pois, porque, por, porquanto, uma vez que, visto que, já que, em virtude de.
+Fazer concessão Apesar de, embora, ainda que, se bem que, por mais que,por menos que, por melhor que, por muito que, mesmo que.
+Para concluir Portanto, por isso, assim sendo, por conseguinte, conseqüentemente, então, deste modo, desta maneira, em vista disso, diante disso, mediante o exposto, em suma, em síntese, em conclusão, enfim, em resumo, portanto, assim, dessa forma, dessa maneira, logo, pois, portanto, pois, (depois do verbo), com isso, desse/deste modo; dessa/desta maneira, dessa/desta forma, assim, em vista disso, por conseguinte, então, logo, destarte.
+Para incluir Também, inclusive, igualmente, até (inclusive)
+Afirmação Consistir, constituir, significar, denotar, mostrar, traduzir-se por, expressar, representar, evidenciar.
+Causalidade Causar, motivar, originar, ocasionar, gerar, propiciar, resultar, provocar, produzir, contribuir, determinar, criar.
+Finalidade Visar, ter em vista, objetivar, ter por objetivo, pretender, tencionar, cogitar, tratar, servir para, prestar-se para.
+Palavras de transição Palavras responsáveis pela coesão do texto por estabelecem a inter-relação entre os enunciados (orações, frases, parágrafos), são preposições, conjunções alguns advérbios e locuções adverbiais. Inicialmente (começo introdução) desde já (começo introdução) a principio, a priori (começo), em primeiro lugar (começo)além disso (continuação), do mesmo modo (continuação), acresce que (continuação), ainda por cima (continuação), bem como (continuação),  outrossim (continuação), enfim (conclusão), dessa forma (conclusão), em suma (conclusão), nesse sentido (conclusão), portanto (conclusão), afinal (conclusão),logo após (tempo), ocasionalmente (tempo), posteriormente (tempo)atualmente (tempo), enquanto isso (tempo), imediatamente (tempo), não raro (tempo), concomitantemente (tempo), igualmente (semelhança, conformidade), segundo (semelhança, conformidade), conforme (semelhança conformidade) assim também (semelhança, conformidade), de acordo com (semelhança, conformidade), daí (causa e conseqüência), por isso (causa e conseqüência), de fato (causa e conseqüência), em virtude de (causa e conseqüência), assim (causa é conseqüência) naturalmente (causa e conseqüência),  então (exemplificação esclarecimento), por exemplo (exemplificação, esclarecimento) isto é (exemplificação esclarecimento), a saber (exemplificação, esclarecimento), em outras palavras (exemplificação esclarecimento), ou seja (exemplificação esclarecimento) quer dizer (exemplificação esclarecimento) rigorosamente falando (exemplificação, esclarecimento).
+Coesão por substituição Substituição de um nome (pessoa, objeto, lugar etc) verbos períodos ou trechos do texto por uma palavra ou expressão que tenha sentido próximo, evitando a repetição no corpo do texto.Ex.: Porto Alegre pode ser substituída por “a capital gaucha; Castro Alves pode ser substituído por “O Poeta dos Escravos; João Paulo II: Sua Santidade; Vênus: A Deusa da Beleza.
+olá tudo bem poderia testar a formatação de texto você nlkt correção

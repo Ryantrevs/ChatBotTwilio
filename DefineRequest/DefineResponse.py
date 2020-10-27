@@ -2,6 +2,7 @@ from DbConnection import iniciarConexao
 import mysql.connector 
 from Response import response
 from Entity import Cliente
+from Corretor import correcao
 
 campo=["Bem vindo ao Chat do Atenas Consultoria\n\n\nGostariamos de agradecer pela oportunidade",
 "Gostariamos de saber seu curso,\n\n digite por favor",
@@ -10,6 +11,8 @@ campo=["Bem vindo ao Chat do Atenas Consultoria\n\n\nGostariamos de agradecer pe
 "Descreva mais sobre seu projeto\n\nTodos os detalhes de data de entrega,Assunto a ser desenvolvido, Detalhes de procedimento\n\n Todo detalhe faz diferença para o atendimento personalizado.",
 "Agradecemos sua prefência, Logo um dos nossos vendedores entrará em contato para dar seguimento ao seu atendimento"]
 
+Sim=["sim","claro","com certeza","fechar"]
+nao=["nao","vendendor","falar"]
 def Definir(telefone,mensagem):
     db = iniciarConexao.iniciar()
     info = constroiCliente(telefone,db)
@@ -36,42 +39,28 @@ def Definir(telefone,mensagem):
                 return 
         if info.etapa == 3:
             if "Descreva" in info.mensagemEnviada:
+                #correcao.principal(mensagem)
                 iniciarConexao.InsertTrabalho(telefone,mensagem,db,"descricao",4)
                 info = constroiCliente(telefone,db)
             else:
                 enviarMensagem = "Descreva mais sobre seu projeto\n\nTodos os detalhes de data de entrega,Assunto a ser desenvolvido, Detalhes de procedimento\n\n Todo detalhe faz diferença para o atendimento personalizado."
                 response.enviarMensagem(telefone,enviarMensagem)
                 iniciarConexao.InsertMensagem(telefone,enviarMensagem,db)
-                '''
-        if info.etapa == 3:
-            if "e-mail" in info.mensagemEnviada:
-                iniciarConexao.InsertInfo(telefone,mensagem,db,"email",4)
-                info = constroiCliente(telefone,db)
-            else:
-                enviarMensagem = "Gostariamos de saber seu e-mail,\n\n digite por favor"
-                response.enviarMensagem(telefone,enviarMensagem)
-                iniciarConexao.InsertMensagem(telefone,enviarMensagem,db)
-                return 
-
         if info.etapa == 4:
-            if "Descreva" in info.mensagemEnviada:
-                iniciarConexao.InsertTrabalho(telefone,mensagem,db)
-                info = constroiCliente(telefone,db)
+            if "Fechar" in info.mensagemEnviada:
+                if(mensagem)in Sim:
+                    enviarMensagem = "Forneça algumas informações para gerar o boleto"
+                    response.enviarMensagem(telefone,enviarMensagem)
+                    iniciarConexao.InsertMensagem(telefone,enviarMensagem,db)
+                else:
+                    enviarMensagem = "Agradeço o contato, logo um dos nossos vendedores "
+                    response.enviarMensagem(telefone,enviarMensagem)
+                    iniciarConexao.InsertMensagem(telefone,enviarMensagem,db)
+
             else:
-                enviarMensagem = "Descreva mais sobre seu projeto\n\nTodos os detalhes de data de entrega,Assunto a ser desenvolvido, Detalhes de procedimento\n\n Todo detalhe faz diferença para o atendimento personalizado."
+                enviarMensagem = "Deseja Fechar com o atendimento remoto ou ser redirecionado para um dos nossos vendedores?"
                 response.enviarMensagem(telefone,enviarMensagem)
                 iniciarConexao.InsertMensagem(telefone,enviarMensagem,db)
-                return 
-        if info.etapa == 5:
-            if "projeto" in info.mensagemEnviada:
-                iniciarConexao.InsertTrabalho(telefone,mensagem,db,"descricao")
-                info = constroiCliente(telefone,db)
-            else:
-                enviarMensagem = "Agradecemos sua prefência, Logo um dos nossos vendedores entrará em contato para dar seguimento ao seu atendimento"
-                response.enviarMensagem(telefone,enviarMensagem)
-                iniciarConexao.InsertMensagem(telefone,enviarMensagem,db)
-                return
-                '''
     else:
         enviarMensagem = "Bem vindo ao Chat do Atenas Consultoria\n\n\nGostariamos de agradecer pela oportunidade"
         iniciarConexao.InsertTelefone(telefone,db)

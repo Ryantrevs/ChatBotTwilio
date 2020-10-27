@@ -5,6 +5,9 @@ from twilio.rest import Client
 
 app = Flask(__name__)
 
+f = open("/Users/Patrick F/Desktop/projeto/ambienteVirtual/credenciais.txt")
+
+
 @app.route('/bot', methods=['POST'])
 def funciona():
     telefone = request.values.get('From','').lower()
