@@ -24,7 +24,7 @@ def Definir(telefone,mensagem):
                 response.enviarMensagem(telefone,enviarMensagem)
                 iniciarConexao.InsertMensagem(telefone,enviarMensagem,db)
                 return 
-            else:
+            else:   
                 iniciarConexao.InsertInfo(telefone,mensagem,db,"curso",2)
                 info = constroiCliente(telefone,db)
                 print("a etapa é: {}".format(info.etapa))
@@ -78,3 +78,17 @@ def constroiCliente(telefone,db):
 #def selectEtapa(mensagem,telefone,cliente):
  #   if (mensagem[cliente.etapa] == cliente.mensagemEnviada):
   #      campo[cliente.etapa] = 0
+
+def tratamento(mensagem,telefone,cliente):
+    if(cliente.etapa==4):
+        
+    else:
+        if (campo[cliente.etapa] == cliente.mensagemEnviada):
+            iniciarConexao.InsertTitulo(telefone,mensagem,db,cliente.etapa+=1)
+            return tratamento(mensagem="",telefone,cliente)
+        else:
+            enviarMensagem = "Digite Agora o titulo do seu trabalho"
+            response.enviarMensagem(telefone,enviarMensagem)
+            iniciarConexao.InsertMensagem(telefone,enviarMensagem,db)
+            return 
+
